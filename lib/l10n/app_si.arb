@@ -1,0 +1,138 @@
+{
+  "@@locale": "si",
+  "appTitle": "UniGuide",
+  "tagline": "ඔබ සිටින තැන දැනගන්න. ඊළඟ පියවර සැලසුම් කරන්න.",
+  "disclaimer": "නිල නොවන සිසු මෙවලමකි. නිල විශ්වවිද්‍යාල මූලාශ්‍ර වලින් සැමවිටම තහවුරු කරගන්න.",
+  "letsBegin": "ආරම්භ කරමු",
+  "next": "ඊළඟ",
+  "skip": "මඟහරින්න",
+  "back": "ආපසු",
+  "save": "සුරකින්න",
+  "cancel": "අවලංගු කරන්න",
+  "delete": "මකන්න",
+  "confirm": "තහවුරු කරන්න",
+  "edit": "සංස්කරණය",
+  "done": "සම්පූර්ණයි",
+  "undo": "පෙර තත්වයට",
+
+  "tabHome": "මුල් පිටුව",
+  "tabClasses": "දේශන",
+  "tabDeadlines": "නියමිත දින",
+  "tabStudy": "අධ්‍යයනය",
+  "tabGpa": "GPA",
+
+  "greetingMorning": "සුබ උදෑසනක්",
+  "greetingAfternoon": "සුබ දහවලක්",
+  "greetingEvening": "සුබ සන්ධ්‍යාවක්",
+  "dayAtAGlance": "ඔබේ දවස එක බැල්මකින්",
+
+  "nextClass": "ඊළඟ දේශනය",
+  "inProgress": "ක්‍රියාත්මක වෙමින් පවතී",
+  "viewTodayClasses": "අද දේශන බලන්න",
+  "noClassesToday": "අද දින දේශන සැලසුම් කර නැත",
+  "noTimetableConfigured": "තවමත් කාල සටහනක් ඇතුළත් කර නැත",
+  "captureBoardNotes": "ලෑල්ලේ සටහන් ඡායාරූප ගන්න",
+  "boardSnap": "ලෑල්ලේ ඡායාරූප",
+  "settings": "සැකසුම්",
+
+  "dueSoon": "ළඟදීම නියමිත",
+  "attendanceAlert": "පැමිණීම් අනතුරු ඇඟවීම",
+  "viewAllDeadlines": "සියලු නියමිත දින බලන්න",
+  "viewAttendance": "පැමිණීම බලන්න",
+
+  "timetableTitle": "ඔබේ දේශන",
+  "segmentTimetable": "කාල සටහන",
+  "segmentAttendance": "පැමිණීම",
+  "addClass": "දේශනයක් එක් කරන්න",
+  "editClass": "දේශනය සංස්කරණය",
+  "freeTimeForYou": "ඔබට නිදහස් කාලය: {duration}",
+  "@freeTimeForYou": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "freeTimeSubtitle": "විවේක ගැනීමට හෝ පාඩම් කිරීමට හොඳ කාලයකි",
+  "overlapWarning": "අවවාදයයි: වෙනත් දේශනයක් සමඟ වේලාවන් ගැටේ",
+
+  "stayOnTrack": "පැමිණීම නිවැරදිව තබාගන්න",
+  "minAttendanceHeader": "ඔබේ අවම පැමිණීම: {percent}% · සැකසුම් මඟින් වෙනස් කරන්න",
+  "@minAttendanceHeader": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "attended": "පැමිණියා",
+  "missed": "නොපැමිණියා",
+  "safeStatus": "ආරක්ෂිතයි",
+  "atLimitStatus": "සීමාවේ පවතී",
+  "needsAttentionStatus": "අවධානය අවශ්‍යයි",
+  "impossibleStatus": "ළඟා විය නොහැක",
+  "noAttendanceRecorded": "පැමිණීම් සටහන් කර නැත",
+
+  "deadlinesTitle": "ඉදිරියෙන් සිටින්න",
+  "addDeadline": "නියමිත දිනයක් එක් කරන්න",
+  "editDeadline": "නියමිත දිනය සංස්කරණය",
+  "filterUpcoming": "ඉදිරියට ඇති",
+  "filterOverdue": "කල් ඉකුත් වූ",
+  "filterCompleted": "සම්පූර්ණ කළ",
+  "swipeToCompleteHint": "සම්පූර්ණ කළ බව දැක්වීමට දකුණට swipe කරන්න.",
+  "markAsDone": "සම්පූර්ණ කළ බව සලකුණු කරන්න",
+  "restoreDeadline": "නැවත සක්‍රිය කරන්න",
+  "noDeadlines": "නියමිත දින කිසිවක් නැත!",
+
+  "gpaTitle": "ඔබේ ඊළඟ ඉලක්කය",
+  "gpaSubtitle": "විශ්වාසයෙන් යුතුව සැලසුම් කරන්න.",
+  "currentGpa": "වත්මන් GPA අගය",
+  "targetGpa": "ඉලක්කගත GPA අගය",
+  "exploreWhatIf": "විය හැකි ශ්‍රේණි පරීක්ෂා කරන්න",
+  "editTargetAndCompleted": "ඉලක්කය සහ අවසන් කළ ශ්‍රේණි සංස්කරණය",
+  "whatIfTitle": "විය හැකි දේ සැලසුම්කරු",
+  "projectedGpa": "අපේක්ෂිත GPA අගය",
+  "resetPlan": "සැලැස්ම යළි පිහිටුවන්න",
+
+  "focusTitle": "වරකට එක කාර්යයක්",
+  "focusSubtitle": "සුළු අවධානයක් විශාල ජයග්‍රහණයක් ගෙන දෙයි.",
+  "startFocusing": "අවධානය යොමු කිරීම අරඹන්න",
+  "pauseTimer": "වෙලාව නවත්වන්න",
+  "resumeTimer": "නැවත අරඹන්න",
+  "endSession": "සැසිය අවසන් කරන්න",
+  "takeABreak": "විනාඩි 5 ක විවේකයක් ගන්න",
+  "focusComplete": "අවධානය යොමු කිරීමේ සැසිය අවසන්!",
+  "seeStudyStats": "අධ්‍යයන ප්‍රගතිය බලන්න",
+  "studyStatsTitle": "ඔබේ ප්‍රගතිය බලන්න",
+  "dailyFocusMinutes": "දෛනික අවධානය · මිනිත්තු",
+  "byModule": "විෂය අනුව",
+  "dayStreak": "දින {count} ක අඛණ්ඩතාව",
+  "@dayStreak": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "boardNotesTitle": "ලෑල්ලේ සටහන්",
+  "boardNotesSubtitle": "සියලු දේශන ඡායාරූප එකම තැනක.",
+  "captureBoard": "ඡායාරූපයක් ගන්න",
+  "moduleFolder": "විෂය ෆෝල්ඩරය",
+  "noPhotosYet": "තවමත් ඡායාරූප නැත · පළමු සටහන ගන්න",
+  "deletePhotoConfirm": "මෙම ඡායාරූපය මකා දමන්නද?",
+
+  "settingsTitle": "ඔබට ගැලපෙන පරිදි සකසන්න",
+  "settingsSubtitle": "සියලු දත්ත මෙම දුරකථනයේම පවතී.",
+  "settingLanguage": "භාෂාව",
+  "settingAppearance": "පෙනුම",
+  "settingAcademicRules": "ශාස්ත්‍රීය නීති",
+  "settingReminders": "මතක් කිරීම්",
+  "settingBackup": "උපස්ථය (Backup)",
+  "settingModules": "විෂයයන් කළමනාකරණය",
+  "exportBackup": "උපස්ථය සුරකින්න (Export)",
+  "importBackup": "උපස්ථය ආයාත කරන්න (Import)",
+  "backupExportSuccess": "උපස්ථය සාර්ථකව නිර්මාණය විය",
+  "backupImportSuccess": "උපස්ථය සාර්ථකව ප්‍රතිස්ථාපනය විය",
+  "backHome": "මුල් පිටුවට"
+}

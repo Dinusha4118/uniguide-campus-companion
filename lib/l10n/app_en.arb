@@ -1,0 +1,138 @@
+{
+  "@@locale": "en",
+  "appTitle": "UniGuide",
+  "tagline": "Know where you stand. Plan what's next.",
+  "disclaimer": "Unofficial student tool. Always confirm with official university sources.",
+  "letsBegin": "Let's begin",
+  "next": "Next",
+  "skip": "Skip",
+  "back": "Back",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "confirm": "Confirm",
+  "edit": "Edit",
+  "done": "Done",
+  "undo": "Undo",
+
+  "tabHome": "Home",
+  "tabClasses": "Classes",
+  "tabDeadlines": "Deadlines",
+  "tabStudy": "Study",
+  "tabGpa": "GPA",
+
+  "greetingMorning": "Good morning",
+  "greetingAfternoon": "Good afternoon",
+  "greetingEvening": "Good evening",
+  "dayAtAGlance": "Your day at a glance",
+
+  "nextClass": "Next class",
+  "inProgress": "In progress",
+  "viewTodayClasses": "View today's classes",
+  "noClassesToday": "No classes scheduled today",
+  "noTimetableConfigured": "No timetable configured yet",
+  "captureBoardNotes": "Capture board notes",
+  "boardSnap": "Board Snap",
+  "settings": "Settings",
+
+  "dueSoon": "Due soon",
+  "attendanceAlert": "Attendance alert",
+  "viewAllDeadlines": "View all deadlines",
+  "viewAttendance": "View attendance",
+
+  "timetableTitle": "Your classes",
+  "segmentTimetable": "Timetable",
+  "segmentAttendance": "Attendance",
+  "addClass": "Add class",
+  "editClass": "Edit class",
+  "freeTimeForYou": "{duration} for you",
+  "@freeTimeForYou": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "freeTimeSubtitle": "A good time to recharge or review",
+  "overlapWarning": "Warning: Overlaps with another scheduled class",
+
+  "stayOnTrack": "Stay on track",
+  "minAttendanceHeader": "Your minimum attendance: {percent}% · Edit in Settings",
+  "@minAttendanceHeader": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "attended": "Attended",
+  "missed": "Missed",
+  "safeStatus": "Safe",
+  "atLimitStatus": "At the limit",
+  "needsAttentionStatus": "Needs attention",
+  "impossibleStatus": "Cannot be reached",
+  "noAttendanceRecorded": "No attendance recorded",
+
+  "deadlinesTitle": "A little ahead",
+  "addDeadline": "Add deadline",
+  "editDeadline": "Edit deadline",
+  "filterUpcoming": "Upcoming",
+  "filterOverdue": "Overdue",
+  "filterCompleted": "Completed",
+  "swipeToCompleteHint": "Swipe right on a deadline to complete it.",
+  "markAsDone": "Mark as done",
+  "restoreDeadline": "Restore deadline",
+  "noDeadlines": "No deadlines here!",
+
+  "gpaTitle": "Your next milestone",
+  "gpaSubtitle": "Plan with confidence.",
+  "currentGpa": "Current GPA",
+  "targetGpa": "Target GPA",
+  "exploreWhatIf": "Explore what-if grades",
+  "editTargetAndCompleted": "Edit target & completed grades",
+  "whatIfTitle": "What-if planner",
+  "projectedGpa": "Projected GPA",
+  "resetPlan": "Reset plan",
+
+  "focusTitle": "One thing at a time",
+  "focusSubtitle": "A little focus goes a long way.",
+  "startFocusing": "Start focusing",
+  "pauseTimer": "Pause",
+  "resumeTimer": "Resume",
+  "endSession": "End session",
+  "takeABreak": "Take a 5-min break",
+  "focusComplete": "Focus session complete!",
+  "seeStudyStats": "See your study stats",
+  "studyStatsTitle": "See your progress",
+  "dailyFocusMinutes": "Daily focus · minutes",
+  "byModule": "By module",
+  "dayStreak": "{count}-day streak",
+  "@dayStreak": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "boardNotesTitle": "Your board notes",
+  "boardNotesSubtitle": "All your lecture snapshots, together.",
+  "captureBoard": "Capture a board",
+  "moduleFolder": "Module folder",
+  "noPhotosYet": "No photos yet · Capture your first note",
+  "deletePhotoConfirm": "Delete this board photo?",
+
+  "settingsTitle": "Make it work for you",
+  "settingsSubtitle": "Everything stays on this phone.",
+  "settingLanguage": "Language",
+  "settingAppearance": "Appearance",
+  "settingAcademicRules": "Academic rules",
+  "settingReminders": "Reminders",
+  "settingBackup": "Backup",
+  "settingModules": "Modules",
+  "exportBackup": "Export backup",
+  "importBackup": "Import backup",
+  "backupExportSuccess": "Backup exported successfully",
+  "backupImportSuccess": "Backup restored successfully",
+  "backHome": "Back home"
+}
